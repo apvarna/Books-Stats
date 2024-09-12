@@ -1,4 +1,4 @@
-## Intro to the tracker
+## My tracker (last update: August 2024)
 
 **[My Book Tracker](https://docs.google.com/spreadsheets/d/1noaY8asMGTL2dy_2B2YBe3vP4V0wMp4mZLGTtIwRupc/edit?usp=sharing)**
 
