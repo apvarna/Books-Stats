@@ -1,8 +1,8 @@
-## My tracker (last update: August 2024)
+## My tracker (last update: December 2024)
 
-After learning Power BI, I developed a dashboard to provide a clearer and more comprehensive view of my reading habits. I typically update these trackers at the end of each month.
+After learning Power BI, I developed a dashboard to provide a clearer and more comprehensive view of my reading habits.
 
-Each page shows unique information. Please see below
+Each page shows unique information.
 
 ### Homepage
 This page displays my overall reading statistics, with options to filter by date and page count. It includes a dynamically updating list of all the books I've read, which adjusts automatically based on the selected filters.
