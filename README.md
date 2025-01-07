@@ -1,15 +1,5 @@
 ## My tracker (last update: August 2024)
 
-**[My Book Tracker](https://docs.google.com/spreadsheets/d/1noaY8asMGTL2dy_2B2YBe3vP4V0wMp4mZLGTtIwRupc/edit?usp=sharing)**
-
-I started this reading tracker in 2021 out of a curiosity to better understand my reading habits, and to gather data that could support my initial assumptions.
-
-I chose Google Sheets for this project because I anticipated losing access to the Microsoft Office Suite after graduation. This led me to build the tracker in a platform that closely mirrors Excel.
-
-**Note:** This tracker is not completely compatible as an Excel document. Some of the formulas are unique to Google Sheets and will not function correctly if the file is downloaded.
-
-<hr>
-
 After learning Power BI, I developed a dashboard to provide a clearer and more comprehensive view of my reading habits. I typically update these trackers at the end of each month.
 
 Each page shows unique information. Please see below
